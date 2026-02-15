@@ -20,4 +20,8 @@
       'Helvetica Neue',
       sans-serif;
   }
+    .scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-color: var(--color-red-500) transparent;
+  }
 }
